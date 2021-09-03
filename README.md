@@ -6,6 +6,10 @@ Inspired by `dom` and this conversation in Discord: [https://discord.com/channel
 
 WARNING - At the moment, this is truly some janky code. Dive into it at your own risk.
 
+## TLDR
+
+If you just want to get started creating a Layer Pack, check out the [Loot Layers Playground Repo](https://github.com/jordanmessina/loot-layers-playground)
+
 ## How it works
 
 The goal of this project is to allow an artist to quickly and easily create a Layer Pack for generatign visuals of [Loots](https://www.lootproject.com/).
