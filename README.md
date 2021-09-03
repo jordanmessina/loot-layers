@@ -6,11 +6,11 @@ Inspired by `dom` and this conversation in Discord: [https://discord.com/channel
 
 ## About
 
-The goal of this project is to allow an artist to quickly and easily create a Layer Pack for creating visuals of [Loots](https://www.lootproject.com/).
+The goal of this project is to allow an artist to quickly and easily create a Layer Pack for generatign visuals of [Loots](https://www.lootproject.com/).
 
 A Layer Pack consists of 3 main parts:
 
-#### `mapping.json`
+### `mapping.json`
 
 Provides a mapping from attributes of a Loot's name to a relative file path pointing to a png. The structure looks like:
 ```
@@ -88,7 +88,7 @@ Provides a mapping from attributes of a Loot's name to a relative file path poin
 
 If necessary, an artist can change the relative path for any Loot attribute.
 
-#### `layers,json`
+### `layers.json`
 
 The ordering of the layers:
 ```
@@ -130,7 +130,8 @@ The ordering of the layers:
 ]
 ```
 
-#### Images
+
+### Images
 
 Where the magic happens. The structure of this is broken down by item:
 ```
